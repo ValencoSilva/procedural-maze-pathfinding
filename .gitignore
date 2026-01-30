@@ -1,0 +1,15 @@
+# Unity folders
+Library/
+Temp/
+Logs/
+UserSettings/
+obj/
+
+# IDE / Visual Studio
+.vs/
+*.csproj
+*.sln
+
+# OS junk
+.DS_Store
+Thumbs.db
